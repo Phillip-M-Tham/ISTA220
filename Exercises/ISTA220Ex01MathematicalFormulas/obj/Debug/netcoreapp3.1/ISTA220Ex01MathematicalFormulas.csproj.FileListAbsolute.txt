@@ -1,0 +1,13 @@
+C:\Users\phill\MSSA2021\CSharp\ISTA220Ex01MathematicalFormulas\bin\Debug\netcoreapp3.1\ISTA220Ex01MathematicalFormulas.exe
+C:\Users\phill\MSSA2021\CSharp\ISTA220Ex01MathematicalFormulas\bin\Debug\netcoreapp3.1\ISTA220Ex01MathematicalFormulas.deps.json
+C:\Users\phill\MSSA2021\CSharp\ISTA220Ex01MathematicalFormulas\bin\Debug\netcoreapp3.1\ISTA220Ex01MathematicalFormulas.runtimeconfig.json
+C:\Users\phill\MSSA2021\CSharp\ISTA220Ex01MathematicalFormulas\bin\Debug\netcoreapp3.1\ISTA220Ex01MathematicalFormulas.runtimeconfig.dev.json
+C:\Users\phill\MSSA2021\CSharp\ISTA220Ex01MathematicalFormulas\bin\Debug\netcoreapp3.1\ISTA220Ex01MathematicalFormulas.dll
+C:\Users\phill\MSSA2021\CSharp\ISTA220Ex01MathematicalFormulas\bin\Debug\netcoreapp3.1\ISTA220Ex01MathematicalFormulas.pdb
+C:\Users\phill\MSSA2021\CSharp\ISTA220Ex01MathematicalFormulas\obj\Debug\netcoreapp3.1\ISTA220Ex01MathematicalFormulas.csprojAssemblyReference.cache
+C:\Users\phill\MSSA2021\CSharp\ISTA220Ex01MathematicalFormulas\obj\Debug\netcoreapp3.1\ISTA220Ex01MathematicalFormulas.AssemblyInfoInputs.cache
+C:\Users\phill\MSSA2021\CSharp\ISTA220Ex01MathematicalFormulas\obj\Debug\netcoreapp3.1\ISTA220Ex01MathematicalFormulas.AssemblyInfo.cs
+C:\Users\phill\MSSA2021\CSharp\ISTA220Ex01MathematicalFormulas\obj\Debug\netcoreapp3.1\ISTA220Ex01MathematicalFormulas.csproj.CoreCompileInputs.cache
+C:\Users\phill\MSSA2021\CSharp\ISTA220Ex01MathematicalFormulas\obj\Debug\netcoreapp3.1\ISTA220Ex01MathematicalFormulas.dll
+C:\Users\phill\MSSA2021\CSharp\ISTA220Ex01MathematicalFormulas\obj\Debug\netcoreapp3.1\ISTA220Ex01MathematicalFormulas.pdb
+C:\Users\phill\MSSA2021\CSharp\ISTA220Ex01MathematicalFormulas\obj\Debug\netcoreapp3.1\ISTA220Ex01MathematicalFormulas.genruntimeconfig.cache

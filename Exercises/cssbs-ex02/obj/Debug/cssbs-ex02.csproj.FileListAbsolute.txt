@@ -1,0 +1,7 @@
+C:\Users\phill\MSSA2021\CSharp\cssbs-ex02\obj\Debug\cssbs-ex02.csprojAssemblyReference.cache
+C:\Users\phill\MSSA2021\CSharp\cssbs-ex02\obj\Debug\cssbs-ex02.csproj.CoreCompileInputs.cache
+C:\Users\phill\MSSA2021\CSharp\cssbs-ex02\bin\Debug\cssbs-ex02.exe.config
+C:\Users\phill\MSSA2021\CSharp\cssbs-ex02\bin\Debug\cssbs-ex02.exe
+C:\Users\phill\MSSA2021\CSharp\cssbs-ex02\bin\Debug\cssbs-ex02.pdb
+C:\Users\phill\MSSA2021\CSharp\cssbs-ex02\obj\Debug\cssbs-ex02.exe
+C:\Users\phill\MSSA2021\CSharp\cssbs-ex02\obj\Debug\cssbs-ex02.pdb
