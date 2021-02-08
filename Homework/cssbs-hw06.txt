@@ -1,0 +1,22 @@
+1. An exception is a the way to catch errors in modern object orientated programing.
+
+1. In a try block, if the program executes without errors, than the code runs line by line as intended.
+
+1. During runtime, the catch handler will try to match the exception, if unsuccessful the program will terminate with an unhandled exception.
+
+1. If an exception block fails the program terminates with an unhandled exception.
+
+1. The parent class for all exceptions is Exception and it can be used to generally catch all exceptions in a catch block. Exceptions are organized into families called inheritance hierarchies.
+, so Exception is at the top and can be more specific as you travel down the branches of exception to catch a specific exception. This is achieved with inheritance. 
+
+1. To find the type of error you can use the Catch block with the Exception(ex) and it will pass the exception with information in regards to what it is regardless of what type of exception is thrown.
+
+1. The purpose of integer checking is to prevent an integer from going over its max value. An integer that is beyond its max will return a negative max value and misrepresent data.
+
+1. Values for int32 range from -2147483648 to 2147483647.
+
+1. Values for a uint is from 4294967295 to 0. Unsigned ints only go to zero and cannot be used for the negative values a signed int can hold.
+
+1. A finally block is ran after a try block or after the last catch handler. Whatever code is enclosed in a final block will run regardless of an exception being caught. It will always execute regardless of what happens during runtime.
+
+1. We might not want to use a finally block becuase we could be in a situation where we want the program to perform a flox of execution in a manner that will not be altered by a finally block.   

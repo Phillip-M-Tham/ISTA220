@@ -1,0 +1,23 @@
+1. Deep copy is when a clone method copies an object and referenced objects are also copied over. A shallow copy is when a clone method copies only references to the objects that are copied.
+
+1. The value of a reference type is a location in memory after you declare and initialize it.
+
+1. You declare a value type by specifying the data type and giving it a variable name. You then set the variable equal to a value respective of the data type.
+
+1. You declare a reference type by using the NEW keyword to create a new object.
+
+1. You cannot assign null to a value type unless you declare it as a nullable value type by using the ? syntax after the data type in a value type variable declaration.
+
+1. You cannot assign a nullable value type to a non-nullable variable of the same type because the non-nullable variable cannot be set to null.
+
+1. A stack has a well defined lifespan. Memory is allocated at the start of a method and re allocated when the method is complete. In a heap, memory allocation is unknown and the lifespan is undetermined. When the last reference to an object is destroyed, the memory is free but not immediatly re allocated.
+
+1. All classes are specialized types of System.Object and that you can use System.Object to create a variable that can refer to any reference type.
+
+1. The REF keyword generates code that passes a reference to the actual argument rather than a copy of the argument.
+
+1. The OUT keyword is used to initialize a parameter by the method it is in. 
+
+1. Boxing is when an item from the stack is copied over to the heap. Unboxing is when an item from the heap is casted over successfully to the stack.
+ 
+1. By using a cast, you can specify that, in your opinion, the data referenced by an object has a specific type and that it is safe to reference the object by using that type.

@@ -1,0 +1,39 @@
+1. Class is a the root word of the term classification. When defining a class you arrange information and behavior into a meaningful entity.
+
+1. Two the purposes of encapsulation is to combine methods and data within a class; in other words, to support classification and to control the accessibility of the methods and data; in other words, to control the use of the class
+
+1. You can instantiate an instance of a class with using the new classname() syntax. You can access the instance with the variable name assinged to the initialization clause.
+
+1. The default access of the fields and methods of a class is private. You can change it to public during the class definition.
+
+1. Syntax for a constructor is : 
+class Circle 
+{ 
+	private circle()
+	{
+	
+	}
+	private int radius;
+	public Circle() // default constructor 
+	{ 
+		radius = 0; 
+	}
+	public double Area() 
+	{ 
+		return Math.PI * radius * radius; 
+	} 
+}
+
+1. The difference between class fields and methods is the declaration of methods and fields. Instance of fields and methods are using them from the class it was created from. You create class fields and methods in the class body brackets.
+
+1. You can bring a static class into scope by using the USING keyword followed by STATIC and name of method. This allows the user access to static class methods such as MATH.SQRT OR CONSOLE.WRITELINE.    	
+
+1. A good reason to create an anonymous class is to create a class that needs to hold a data type that you do not know what it is.
+
+1. Polymorphism is when you create a class that is altered from a parent class to adapt to different parameters.
+
+1. In computer science, message passing is a technique for invoking behavior on a computer. The invoking program sends a message to a process and relies on that process and its supporting infrastructure to then select and run some appropriate code.
+
+1. SIMULA was the first object-orientated language. 
+
+1. Alexander Alexandrovich Stepanov is a Russian-American computer programmer, best known as an advocate of generic programming and as the primary designer and implementer of the C++ Standard Template Library, which he started to develop around 1992 while employed at HP Labs. I think it is hard to fathom what object orientated programming is truly capable of during the early 90's and that the amount of updates in object orientated programming has developed a very polished vision of capabilities and not as unsound.
