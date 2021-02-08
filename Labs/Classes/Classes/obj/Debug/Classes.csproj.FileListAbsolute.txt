@@ -1,0 +1,7 @@
+C:\Users\phill\MSSA2021\CSharp\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\phill\MSSA2021\CSharp\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\phill\MSSA2021\CSharp\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\phill\MSSA2021\CSharp\Classes\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\phill\MSSA2021\CSharp\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\phill\MSSA2021\CSharp\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\phill\MSSA2021\CSharp\Classes\Classes\obj\Debug\Classes.pdb

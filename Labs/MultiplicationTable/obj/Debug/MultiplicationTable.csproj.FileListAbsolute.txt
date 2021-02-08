@@ -1,0 +1,7 @@
+C:\Users\phill\MSSA2021\CSharp\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+C:\Users\phill\MSSA2021\CSharp\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+C:\Users\phill\MSSA2021\CSharp\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+C:\Users\phill\MSSA2021\CSharp\MultiplicationTable\obj\Debug\MultiplicationTable.csprojAssemblyReference.cache
+C:\Users\phill\MSSA2021\CSharp\MultiplicationTable\obj\Debug\MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\phill\MSSA2021\CSharp\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+C:\Users\phill\MSSA2021\CSharp\MultiplicationTable\obj\Debug\MultiplicationTable.pdb

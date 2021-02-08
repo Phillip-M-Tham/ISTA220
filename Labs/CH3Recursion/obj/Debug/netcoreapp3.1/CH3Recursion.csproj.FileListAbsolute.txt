@@ -1,0 +1,13 @@
+C:\Users\phill\MSSA2021\CSharp\CH3Recursion\bin\Debug\netcoreapp3.1\CH3Recursion.exe
+C:\Users\phill\MSSA2021\CSharp\CH3Recursion\bin\Debug\netcoreapp3.1\CH3Recursion.deps.json
+C:\Users\phill\MSSA2021\CSharp\CH3Recursion\bin\Debug\netcoreapp3.1\CH3Recursion.runtimeconfig.json
+C:\Users\phill\MSSA2021\CSharp\CH3Recursion\bin\Debug\netcoreapp3.1\CH3Recursion.runtimeconfig.dev.json
+C:\Users\phill\MSSA2021\CSharp\CH3Recursion\bin\Debug\netcoreapp3.1\CH3Recursion.dll
+C:\Users\phill\MSSA2021\CSharp\CH3Recursion\bin\Debug\netcoreapp3.1\CH3Recursion.pdb
+C:\Users\phill\MSSA2021\CSharp\CH3Recursion\obj\Debug\netcoreapp3.1\CH3Recursion.csprojAssemblyReference.cache
+C:\Users\phill\MSSA2021\CSharp\CH3Recursion\obj\Debug\netcoreapp3.1\CH3Recursion.AssemblyInfoInputs.cache
+C:\Users\phill\MSSA2021\CSharp\CH3Recursion\obj\Debug\netcoreapp3.1\CH3Recursion.AssemblyInfo.cs
+C:\Users\phill\MSSA2021\CSharp\CH3Recursion\obj\Debug\netcoreapp3.1\CH3Recursion.csproj.CoreCompileInputs.cache
+C:\Users\phill\MSSA2021\CSharp\CH3Recursion\obj\Debug\netcoreapp3.1\CH3Recursion.dll
+C:\Users\phill\MSSA2021\CSharp\CH3Recursion\obj\Debug\netcoreapp3.1\CH3Recursion.pdb
+C:\Users\phill\MSSA2021\CSharp\CH3Recursion\obj\Debug\netcoreapp3.1\CH3Recursion.genruntimeconfig.cache
